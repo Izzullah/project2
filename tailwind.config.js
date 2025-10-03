@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        plus: 'Plus Jakarta Sans, sans-serif'
+        plus: "Plus Jakarta Sans"
       }
     },
   },
